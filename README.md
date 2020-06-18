@@ -1,2 +1,2 @@
 # Human-Retension-Project
-Predicting which employee will resign company using a Kaggle Dataset
+Prediction made which employee will resign company using a Kaggle Dataset
