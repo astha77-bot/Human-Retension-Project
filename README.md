@@ -3,7 +3,7 @@ Problem Statement: A large company employees at any given point of time around m
 
 1.The former employees’ projects get delayed, which makes it difficult to meet timelines, resulting in a reputation loss among consumers and partners.
 
-2.A sizeable department has to be maintained, for the purposes of recruiting new talent.
+2.A sizeable department has to be maintained, for the purposes of recruiting new talents.
 
 3.More often than not, the new employees have to be trained for the job and/or given time to acclimatize themselves to the company.
 
