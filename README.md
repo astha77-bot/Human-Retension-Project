@@ -7,4 +7,4 @@ Problem Statement: A large company employees at any given point of time around m
 
 3.More often than not, the new employees have to be trained for the job and/or given time to acclimatize themselves to the company.
 
-Therefore,I developed a Model to detect which of the employee will give resignation and also to analse the reason of his resignation results thus obtained will be used by the management to understand what changes they should make to their workplace, in order to get most of their employees to Stay.
+Therefore,I developed a Model to detect which of the employee will give resignation and also to analse the reason of his resignation results thus obtained will be used by the management to understand what changes they should make to their workplace, in order to get most of their employees to stay.
